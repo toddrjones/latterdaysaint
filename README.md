@@ -20,7 +20,7 @@ Skip to:
 
 ---
 
-### Missionary and Church Growth
+### Missionary, Growth, and Statistics
 
 - [Growth of The Church of Jesus Christ of Latter-day Saints](https://ldschurchgrowth.blogspot.com/) - blog about baptisms, new missions, new stakes, new temples, etc.
 Cumorah and lds growth stats 
@@ -31,9 +31,18 @@ Cumorah and lds growth stats
 
 ---
 
+### News
+
+- [Church News](https://www.thechurchnews.com/)
+- [Church Newsroom](https://newsroom.churchofjesuschrist.org/)
+- [World Report](https://newsroom.churchofjesuschrist.org/article/world-report)
+
+---
+
 ### Temples
 
-- [Church of Jesus Christ Temples](https://churchofjesuschristtemples.org/) - temple 
+- [Church of Jesus Christ Temples](https://churchofjesuschristtemples.org/) - lots of information about temples, including construction status
+- [Book a temple appointment](https://tos.churchofjesuschrist.org/) 
 
 ---
 
@@ -49,7 +58,7 @@ Cumorah and lds growth stats
 
 ---
 
-Disclaimer: This site may contain errors and in no way do we guarantee the accuracy or quality of the referenced data. In no event will we be liable for any loss or damage.
+Disclaimer: This site may contain errors and in no way do we guarantee the accuracy or quality of the references. In no event will we be liable for any loss or damage.
 
 
 
