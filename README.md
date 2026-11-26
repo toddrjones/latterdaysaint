@@ -41,7 +41,13 @@ Cumorah and lds growth stats
 
 - [Sacrament meeting agenda templates](https://leadingsaints.org/sacrament-meeting-agendas/)
 
-  ---
+---
+
+### Media
+
+- [Advanced Profanity Filter](https://chromewebstore.google.com/detail/advanced-profanity-filter/piajkpdbaniagacofgklljacgjhefjeh?pli=1) - free, customizable Google Chrome extension that mutes/edits out audio and/or text profanity
+
+---
 
 Disclaimer: This site may contain errors and in no way do we guarantee the accuracy or quality of the referenced data. In no event will we be liable for any loss or damage.
 
