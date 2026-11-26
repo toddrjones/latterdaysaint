@@ -18,6 +18,14 @@ Skip to:
 - [Footnotes from conference talks](https://github.com/BYU-ODH/general-conference-footnotes-db?st_source=ai_overview)
   - From ["“How Beautiful Are the Feet” The Use of Footnotes in General Conference Reports"](https://rsc.byu.edu/vol-24-no-2-2023/how-beautiful-are-feet)
  
+### Missionary and Church Growth
+
+- [Growth of The Church of Jesus Christ of Latter-day Saints](https://ldschurchgrowth.blogspot.com/) - blog about baptisms, new missions, new stakes, new temples, etc.
+Cumorah and lds growth stats 
+  - You can get a free version by [downloading the Deseret Bookshelf app](https://support.deseretbook.com/article/224-free-books-with-bookshelf-app)
+- [Cumorah.com](https://www.cumorah.com/) - expansive site with [analyses for each country](https://www.cumorah.com/countries/viewReports) along with many other things
+   - See statistical analyses [here](https://www.cumorah.com/countries/reachingNations/)
+- [The Power of Everyday Missionaries](https://www.goodreads.com/en/book/show/17210417-the-power-of-everyday-missionaries) - fantastic book by Clayton Christensen about how to better share the gospel
 
 
 
